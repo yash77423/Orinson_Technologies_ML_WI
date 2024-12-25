@@ -6,7 +6,7 @@ I’m excited to share that I’ve joined the **Winter Internship Program** at *
 
 ## 🎯 Why I Chose This Internship
 
-I’ve always been fascinated by Artificial Intelligence and Data Science, and this internship offers the perfect platform to deepen my knowledge and practical skills. Over the course of this program, I’ll be working on **real-world machine learning projects**, developing predictive models, analyzing data, and exploring the latest algorithms in the field. 🤖📊
+I’ve always been fascinated by Artificial Intelligence and Data Science, and this internship offers the perfect platform to deepen my knowledge and practical skills. Over the course of this program, I’ll be working on **real-world Machine Learning projects**, developing predictive models, analyzing data, and exploring the latest algorithms in the field. 🤖📊
 
 ### 🔍 **Key Areas I'll Be Exploring:**
 - **Data Preprocessing**: Cleaning and organizing data for analysis.
